@@ -1,4 +1,4 @@
 {
-    "Server_ip": "192.168.56.1",
+    "Server_ip": "127.0.0.1",
     "Server_port": 1234
 }
